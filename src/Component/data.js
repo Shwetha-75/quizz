@@ -1,65 +1,55 @@
 const data_set=[
     {
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:1,
+        question:"What does some points means ?What does some points meansWhat does some points meansWhat does some points means",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option1'
     },{
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:2,
+        question:"What does some points means ?",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option2'
     },{
+        id:3,
         question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option4'
     },{
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:4,
+        question:"What does some points means ?",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option1'
     },{
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:5,
+        question:"What does some points means ?",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option3'
     },{
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:6,
+        question:"What does some points means ?",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option4'
     },
     {
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:7,
+        question:"What does some points means ?",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option1'
     },{
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:8,
+        question:"What does some points means ?What does some points meansWhat does some points means",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option3'
     },{
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:9,
+        question:"What does some points means ?",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option2'
     },{
-        question:"1. What does some points means ?",
-        option_1:'option1',
-        option_2:'option2',
-        option_3:'option3',
-        option_4:"option4"
+        id:10,
+        question:"What does some points means ?",
+        option:['option1', 'option2','option3',"option4"],
+        ans:'option4'
     },
 
 

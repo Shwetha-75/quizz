@@ -13,6 +13,32 @@ body{
     overflow-y: scroll;
     margin-left:30%;
     margin-top: 5vh;
-    background-color:rgb(255, 255, 255,0.2) ;
+    background-image:url("./Component/image.jpg");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     border-radius: 10px;
+    
+}
+.quiz--div--tag{
+    width:80%;
+    font-size: 1.5rem;
+    margin-left: 10%;
+}
+.submit--btn--tag{
+    background-color: rgba(3, 3, 33, 0.85);
+    border-radius: 10px;
+    width:30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height:60px;
+    font-size: 1rem;
+    color:rgba(255, 255, 255, 0.778);
+}
+.submit--btn--tag:hover{
+    transition: 1s;
+    color:rgba(255, 255, 255);
+    background-color: rgba(3, 3, 33);
+   
 }
