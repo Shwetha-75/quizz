@@ -16,8 +16,7 @@
     background-color: rgba(4, 52, 14, 0.164);
     color:rgb(0, 0, 0);
     border-radius:10px;
-    cursor: pointer;
-    
+    cursor: pointer;   
  
 }
 
@@ -28,6 +27,7 @@
     color:rgb(0, 0, 0);
     border-radius:10px;
     cursor: pointer;
+   
     
  
 }
